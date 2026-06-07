@@ -1,0 +1,600 @@
+INPUT: TOMORROW ME WORK
+OUTPUT: Tomorrow will work
+----------------------------------------
+INPUT: HE WALK WATER
+OUTPUT: He walks water
+----------------------------------------
+INPUT: ME SAD
+OUTPUT: I am sad
+----------------------------------------
+INPUT: YOU GOOD
+OUTPUT: You are good
+----------------------------------------
+INPUT: WHICH ME
+OUTPUT: Which me
+----------------------------------------
+INPUT: HE SAD
+OUTPUT: He is sad
+----------------------------------------
+INPUT: HE EAT PHONE
+OUTPUT: He eats phone
+----------------------------------------
+INPUT: TOMORROW HE TRY
+OUTPUT: Tomorrow will try
+----------------------------------------
+INPUT: YOU DRINK COMPUTER
+OUTPUT: You drink computer
+----------------------------------------
+INPUT: WHICH ME
+OUTPUT: Which me
+----------------------------------------
+INPUT: HE WALK VEGETABLE WHO YOU
+OUTPUT: He walks vegetable. Who are you?
+----------------------------------------
+INPUT: HE WORK COLLEGE WHO HE
+OUTPUT: He works college. Who is he?
+----------------------------------------
+INPUT: WHY ME
+OUTPUT: Why am I?
+----------------------------------------
+INPUT: WHICH ME
+OUTPUT: Which me
+----------------------------------------
+INPUT: YOU WORK VEGETABLE
+OUTPUT: You work vegetable
+----------------------------------------
+INPUT: HE WORK TEA WHY YOU
+OUTPUT: He work team. Why are you?
+----------------------------------------
+INPUT: WHICH ME
+OUTPUT: Which me
+----------------------------------------
+INPUT: WHICH HE
+OUTPUT: Which he
+----------------------------------------
+INPUT: TOMORROW HE GO
+OUTPUT: Tomorrow will go
+----------------------------------------
+INPUT: YESTERDAY YOU COME
+OUTPUT: Yesterday came
+----------------------------------------
+INPUT: YOU GO TEA
+OUTPUT: You go tea
+----------------------------------------
+INPUT: WHICH YOU
+OUTPUT: Which you
+----------------------------------------
+INPUT: TOMORROW ME TRY
+OUTPUT: Tomorrow will try
+----------------------------------------
+INPUT: ME GO PHONE WHICH HE
+OUTPUT: I go phone which he
+----------------------------------------
+INPUT: TOMORROW YOU EAT
+OUTPUT: Tomorrow will eat
+----------------------------------------
+INPUT: YOU COME ROOM
+OUTPUT: You come room
+----------------------------------------
+INPUT: YOU DRINK VEGETABLE WHICH HE
+OUTPUT: You drink vegetable which he
+----------------------------------------
+INPUT: ME EAT VEGETABLE
+OUTPUT: I eat vegetable
+----------------------------------------
+INPUT: ME TRY WATER WHY HE
+OUTPUT: I try water. Why is he?
+----------------------------------------
+INPUT: HE SCARED
+OUTPUT: He is scared
+----------------------------------------
+INPUT: HE TRY COFFEE WHO HE
+OUTPUT: He tries coffee. Who is he?
+----------------------------------------
+INPUT: HE EAT COFFEE
+OUTPUT: He eats coffee
+----------------------------------------
+INPUT: TOMORROW YOU TRY
+OUTPUT: Tomorrow will try
+----------------------------------------
+INPUT: HE COME VEGETABLE
+OUTPUT: He comes vegetable
+----------------------------------------
+INPUT: YESTERDAY ME WORK
+OUTPUT: Yesterday, yesterday worked
+----------------------------------------
+INPUT: ME GOOD
+OUTPUT: I am good
+----------------------------------------
+INPUT: WHO ME
+OUTPUT: Who am I?
+----------------------------------------
+INPUT: HE HUNGRY
+OUTPUT: He is hungry
+----------------------------------------
+INPUT: YOU THIRSTY
+OUTPUT: You are thirsty
+----------------------------------------
+INPUT: YOU MOVE ROOM
+OUTPUT: You move room
+----------------------------------------
+INPUT: ME COME COMPUTER WHO ME
+OUTPUT: I come computer. Who am I?
+----------------------------------------
+INPUT: TOMORROW HE DRINK
+OUTPUT: Tomorrow will drink
+----------------------------------------
+INPUT: TODAY YOU SEE
+OUTPUT: Today see
+----------------------------------------
+INPUT: YESTERDAY ME TRY
+OUTPUT: Yesterday tried
+----------------------------------------
+INPUT: YOU TRY VEGETABLE WHICH HE
+OUTPUT: You try vegetable which he
+----------------------------------------
+INPUT: YOU THIRSTY
+OUTPUT: You are thirsty
+----------------------------------------
+INPUT: HE SAD
+OUTPUT: He is sad
+----------------------------------------
+INPUT: HE DRINK COFFEE WHICH ME
+OUTPUT: He drinks coffee which me
+----------------------------------------
+INPUT: HE SCARED
+OUTPUT: He is scared
+----------------------------------------
+INPUT: TODAY YOU GO
+OUTPUT: Today go
+----------------------------------------
+INPUT: ME HUNGRY
+OUTPUT: I am hungry
+----------------------------------------
+INPUT: YOU WALK COMPUTER WHICH ME
+OUTPUT: You walk computer which me
+----------------------------------------
+INPUT: YOU GOOD
+OUTPUT: You are good
+----------------------------------------
+INPUT: WHY HE
+OUTPUT: Why is he?
+----------------------------------------
+INPUT: ME HUNGRY
+OUTPUT: I am hungry
+----------------------------------------
+INPUT: YOU DRINK COMPUTER WHICH ME
+OUTPUT: You drink computer which me
+----------------------------------------
+INPUT: YOU GO COLLEGE WHO YOU
+OUTPUT: You go college. Who are you?
+----------------------------------------
+INPUT: YESTERDAY HE TRY
+OUTPUT: Yesterday tried
+----------------------------------------
+INPUT: ME SCARED
+OUTPUT: I am scared
+----------------------------------------
+INPUT: WHY HE
+OUTPUT: Why is he?
+----------------------------------------
+INPUT: ME GO WATER WHO YOU
+OUTPUT: I go water. Who are you?
+----------------------------------------
+INPUT: WHO HE
+OUTPUT: Who is he?
+----------------------------------------
+INPUT: WHO ME
+OUTPUT: Who am I?
+----------------------------------------
+INPUT: HE WALK COLLEGE
+OUTPUT: He walks college
+----------------------------------------
+INPUT: YESTERDAY HE SEE
+OUTPUT: Yesterday saw
+----------------------------------------
+INPUT: TOMORROW YOU TRY
+OUTPUT: Tomorrow will try
+----------------------------------------
+INPUT: WHICH HE
+OUTPUT: Which he
+----------------------------------------
+INPUT: ME EAT COLLEGE WHY ME
+OUTPUT: I eat college. Why am I?
+----------------------------------------
+INPUT: WHY ME
+OUTPUT: Why am I?
+----------------------------------------
+INPUT: TOMORROW ME COME
+OUTPUT: Tomorrow will come
+----------------------------------------
+INPUT: HE SEE TEA
+OUTPUT: He sees tea
+----------------------------------------
+INPUT: YESTERDAY HE EAT
+OUTPUT: Yesterday ate
+----------------------------------------
+INPUT: ME MOVE COMPUTER
+OUTPUT: I move computer
+----------------------------------------
+INPUT: HE COME COMPUTER
+OUTPUT: He comes computer
+----------------------------------------
+INPUT: HE WALK COLLEGE
+OUTPUT: He walks college
+----------------------------------------
+INPUT: YOU TRY PHONE WHICH ME
+OUTPUT: You try phone which me
+----------------------------------------
+INPUT: HE WALK COMPUTER
+OUTPUT: He walks computer
+----------------------------------------
+INPUT: HE SAD
+OUTPUT: He is sad
+----------------------------------------
+INPUT: YOU WORK COLLEGE WHY ME
+OUTPUT: You work college. Why am I?
+----------------------------------------
+INPUT: YOU HUNGRY
+OUTPUT: You are hungry
+----------------------------------------
+INPUT: HE EAT COMPUTER WHO ME
+OUTPUT: He eats computer. Who am I?
+----------------------------------------
+INPUT: YOU WORK ROOM WHO YOU
+OUTPUT: You work room. Who are you?
+----------------------------------------
+INPUT: HE DRINK ROOM
+OUTPUT: He drinks room
+----------------------------------------
+INPUT: ME WALK VEGETABLE
+OUTPUT: I walk vegetable
+----------------------------------------
+INPUT: HE TRY COLLEGE
+OUTPUT: He tries college
+----------------------------------------
+INPUT: YOU EAT COLLEGE WHICH YOU
+OUTPUT: You eat college which you
+----------------------------------------
+INPUT: WHO HE
+OUTPUT: Who is he?
+----------------------------------------
+INPUT: HE THIRSTY
+OUTPUT: He is thirsty
+----------------------------------------
+INPUT: YOU THIRSTY
+OUTPUT: You are thirsty
+----------------------------------------
+INPUT: WHY ME
+OUTPUT: Why am I?
+----------------------------------------
+INPUT: YOU DRINK WATER WHICH YOU
+OUTPUT: You drink water which you
+----------------------------------------
+INPUT: YOU EAT COMPUTER
+OUTPUT: You eat computer
+----------------------------------------
+INPUT: HE WORK COMPUTER
+OUTPUT: He works computer
+----------------------------------------
+INPUT: ME WALK WATER WHO HE
+OUTPUT: I walk water. Who is he?
+----------------------------------------
+INPUT: ME WALK COMPUTER
+OUTPUT: I walk computer
+----------------------------------------
+INPUT: HE SEE ROOM
+OUTPUT: He sees room
+----------------------------------------
+INPUT: YOU DRINK COMPUTER
+OUTPUT: You drink computer
+----------------------------------------
+INPUT: YESTERDAY ME WORK
+OUTPUT: Yesterday, yesterday worked
+----------------------------------------
+INPUT: ME EAT COFFEE
+OUTPUT: I eat coffee
+----------------------------------------
+INPUT: YOU GREAT
+OUTPUT: You are great
+----------------------------------------
+INPUT: WHICH YOU
+OUTPUT: Which you
+----------------------------------------
+INPUT: YESTERDAY YOU EAT
+OUTPUT: Yesterday ate
+----------------------------------------
+INPUT: ME SAD
+OUTPUT: I am sad
+----------------------------------------
+INPUT: ME WALK WATER
+OUTPUT: I walk water
+----------------------------------------
+INPUT: ME SAD
+OUTPUT: I am sad
+----------------------------------------
+INPUT: HE WORK PHONE
+OUTPUT: He works phone
+----------------------------------------
+INPUT: ME THIRSTY
+OUTPUT: I am thirsty
+----------------------------------------
+INPUT: ME EAT COLLEGE
+OUTPUT: I eat college
+----------------------------------------
+INPUT: WHICH HE
+OUTPUT: Which he
+----------------------------------------
+INPUT: WHO ME
+OUTPUT: Who am I?
+----------------------------------------
+INPUT: WHO YOU
+OUTPUT: Who are you?
+----------------------------------------
+INPUT: YESTERDAY YOU DRINK
+OUTPUT: Yesterday drank
+----------------------------------------
+INPUT: WHO YOU
+OUTPUT: Who are you?
+----------------------------------------
+INPUT: YOU GOOD
+OUTPUT: You are good
+----------------------------------------
+INPUT: ME SEE ROOM
+OUTPUT: I see room
+----------------------------------------
+INPUT: YESTERDAY YOU WORK
+OUTPUT: Yesterday, yesterday worked
+----------------------------------------
+INPUT: ME SAD
+OUTPUT: I am sad
+----------------------------------------
+INPUT: HE HUNGRY
+OUTPUT: He is hungry
+----------------------------------------
+INPUT: WHY ME
+OUTPUT: Why am I?
+----------------------------------------
+INPUT: YOU TRY PHONE WHO ME
+OUTPUT: You try phone. Who am I?
+----------------------------------------
+INPUT: HE DRINK COMPUTER
+OUTPUT: He drinks computer
+----------------------------------------
+INPUT: HE WALK TEA
+OUTPUT: He walks tea
+----------------------------------------
+INPUT: HE EAT COLLEGE
+OUTPUT: He eats college
+----------------------------------------
+INPUT: ME EAT COLLEGE WHICH YOU
+OUTPUT: I eat college which you
+----------------------------------------
+INPUT: ME TRY WATER
+OUTPUT: I try water
+----------------------------------------
+INPUT: HE WORK TEA
+OUTPUT: He work team
+----------------------------------------
+INPUT: HE GREAT
+OUTPUT: He is great
+----------------------------------------
+INPUT: YOU GOOD
+OUTPUT: You are good
+----------------------------------------
+INPUT: HE THIRSTY
+OUTPUT: He is thirsty
+----------------------------------------
+INPUT: YOU SEE COMPUTER WHY HE
+OUTPUT: You see computer. Why is he?
+----------------------------------------
+INPUT: YOU GREAT
+OUTPUT: You are great
+----------------------------------------
+INPUT: YOU SCARED
+OUTPUT: You are scared
+----------------------------------------
+INPUT: YOU TRY COMPUTER WHO YOU
+OUTPUT: You try computer. Who are you?
+----------------------------------------
+INPUT: WHY ME
+OUTPUT: Why am I?
+----------------------------------------
+INPUT: HE TRY COMPUTER
+OUTPUT: He tries computer
+----------------------------------------
+INPUT: ME DRINK COMPUTER
+OUTPUT: I drink computer
+----------------------------------------
+INPUT: HE TRY WATER
+OUTPUT: He tries water
+----------------------------------------
+INPUT: YOU SEE COFFEE
+OUTPUT: You see coffee
+----------------------------------------
+INPUT: HE MOVE WATER WHY YOU
+OUTPUT: He moves water. Why are you?
+----------------------------------------
+INPUT: TOMORROW HE EAT
+OUTPUT: Tomorrow will eat
+----------------------------------------
+INPUT: YOU SEE COMPUTER WHY ME
+OUTPUT: You see computer. Why am I?
+----------------------------------------
+INPUT: WHY ME
+OUTPUT: Why am I?
+----------------------------------------
+INPUT: HE SEE VEGETABLE
+OUTPUT: He sees vegetable
+----------------------------------------
+INPUT: YOU HUNGRY
+OUTPUT: You are hungry
+----------------------------------------
+INPUT: WHO HE
+OUTPUT: Who is he?
+----------------------------------------
+INPUT: YOU SEE COLLEGE WHO YOU
+OUTPUT: You see college. Who are you?
+----------------------------------------
+INPUT: YESTERDAY ME EAT
+OUTPUT: Yesterday ate
+----------------------------------------
+INPUT: TOMORROW HE MOVE
+OUTPUT: Tomorrow will move
+----------------------------------------
+INPUT: TODAY YOU MOVE
+OUTPUT: Today move
+----------------------------------------
+INPUT: YESTERDAY YOU COME
+OUTPUT: Yesterday came
+----------------------------------------
+INPUT: YOU SAD
+OUTPUT: You are sad
+----------------------------------------
+INPUT: HE TRY TEA WHICH ME
+OUTPUT: He tries tea which me
+----------------------------------------
+INPUT: ME GO COFFEE WHY YOU
+OUTPUT: I go coffee. Why are you?
+----------------------------------------
+INPUT: ME SCARED
+OUTPUT: I am scared
+----------------------------------------
+INPUT: YOU DRINK PHONE WHY HE
+OUTPUT: You drink phone. Why is he?
+----------------------------------------
+INPUT: YOU SAD
+OUTPUT: You are sad
+----------------------------------------
+INPUT: HE THIRSTY
+OUTPUT: He is thirsty
+----------------------------------------
+INPUT: WHY ME
+OUTPUT: Why am I?
+----------------------------------------
+INPUT: WHY ME
+OUTPUT: Why am I?
+----------------------------------------
+INPUT: HE TRY COMPUTER
+OUTPUT: He tries computer
+----------------------------------------
+INPUT: YOU GOOD
+OUTPUT: You are good
+----------------------------------------
+INPUT: WHY ME
+OUTPUT: Why am I?
+----------------------------------------
+INPUT: WHO ME
+OUTPUT: Who am I?
+----------------------------------------
+INPUT: WHO YOU
+OUTPUT: Who are you?
+----------------------------------------
+INPUT: ME MOVE PHONE
+OUTPUT: I move phone
+----------------------------------------
+INPUT: WHO HE
+OUTPUT: Who is he?
+----------------------------------------
+INPUT: TODAY ME COME
+OUTPUT: Today come
+----------------------------------------
+INPUT: WHY YOU
+OUTPUT: Why are you?
+----------------------------------------
+INPUT: WHO YOU
+OUTPUT: Who are you?
+----------------------------------------
+INPUT: YESTERDAY HE WORK
+OUTPUT: Yesterday, yesterday worked
+----------------------------------------
+INPUT: YESTERDAY YOU GO
+OUTPUT: Yesterday went
+----------------------------------------
+INPUT: HE COME PHONE WHY YOU
+OUTPUT: He comes phone. Why are you?
+----------------------------------------
+INPUT: YESTERDAY YOU DRINK
+OUTPUT: Yesterday drank
+----------------------------------------
+INPUT: YESTERDAY HE MOVE
+OUTPUT: Yesterday moved
+----------------------------------------
+INPUT: ME DRINK WATER
+OUTPUT: I drink water
+----------------------------------------
+INPUT: TODAY ME WORK
+OUTPUT: Today, today work
+----------------------------------------
+INPUT: WHY HE
+OUTPUT: Why is he?
+----------------------------------------
+INPUT: YOU GREAT
+OUTPUT: You are great
+----------------------------------------
+INPUT: ME GREAT
+OUTPUT: I am great
+----------------------------------------
+INPUT: TODAY ME COME
+OUTPUT: Today come
+----------------------------------------
+INPUT: TOMORROW YOU TRY
+OUTPUT: Tomorrow will try
+----------------------------------------
+INPUT: TOMORROW HE GO
+OUTPUT: Tomorrow will go
+----------------------------------------
+INPUT: WHICH HE
+OUTPUT: Which he
+----------------------------------------
+INPUT: ME GOOD
+OUTPUT: I am good
+----------------------------------------
+INPUT: WHO YOU
+OUTPUT: Who are you?
+----------------------------------------
+INPUT: YESTERDAY ME TRY
+OUTPUT: Yesterday tried
+----------------------------------------
+INPUT: WHY HE
+OUTPUT: Why is he?
+----------------------------------------
+INPUT: WHY HE
+OUTPUT: Why is he?
+----------------------------------------
+INPUT: HE WORK ROOM WHO YOU
+OUTPUT: He works room. Who are you?
+----------------------------------------
+INPUT: HE SAD
+OUTPUT: He is sad
+----------------------------------------
+INPUT: TOMORROW ME MOVE
+OUTPUT: Tomorrow will move
+----------------------------------------
+INPUT: WHICH ME
+OUTPUT: Which me
+----------------------------------------
+INPUT: ME DRINK WATER WHO HE
+OUTPUT: I drink water. Who is he?
+----------------------------------------
+INPUT: WHY YOU
+OUTPUT: Why are you?
+----------------------------------------
+INPUT: YOU MOVE TEA WHO YOU
+OUTPUT: You move tea. Who are you?
+----------------------------------------
+INPUT: YOU WALK WATER WHICH ME
+OUTPUT: You walk water which me
+----------------------------------------
+INPUT: WHICH YOU
+OUTPUT: Which you
+----------------------------------------
+INPUT: HE MOVE TEA
+OUTPUT: He moves tea
+----------------------------------------
+INPUT: HE EAT ROOM WHY YOU
+OUTPUT: He eats room. Why are you?
+----------------------------------------
+INPUT: YOU COME COLLEGE WHY YOU
+OUTPUT: You come college. Why are you?
+----------------------------------------
